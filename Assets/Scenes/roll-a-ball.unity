@@ -243,7 +243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 15
   countText: {fileID: 930246660}
-  winText: {fileID: 0}
+  winText: {fileID: 706796841}
 --- !u!54 &263787413
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -718,7 +718,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Win Text
+  m_Text: You Win loser
 --- !u!222 &706796842
 CanvasRenderer:
   m_ObjectHideFlags: 0
